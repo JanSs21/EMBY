@@ -4,74 +4,74 @@ payload:
 
 # > ↓↓↓↓↓↓↓↓↓（Emby影视的分流）↓↓↓↓↓↓↓↓↓
 # Emby-hxd
-  - DOMAIN-SUFFIX,hxd.as174.de
-  - DOMAIN-SUFFIX,emby.as174.de
+- DOMAIN-SUFFIX,hxd.as174.de
+- DOMAIN-SUFFIX,emby.as174.de
 
 # Emby-bgk
-  - DOMAIN-SUFFIX,c.emby.pro
+- DOMAIN-SUFFIX,c.emby.pro
 
 # Emby-yomo
-  - DOMAIN-SUFFIX,emby.yomo.lol
+- DOMAIN-SUFFIX,emby.yomo.lol
   
 #Emby-飞越彩虹
-  - DOMAIN-SUFFIX,7777777.buzz
-  - DOMAIN-SUFFIX,581658.best
+- DOMAIN-SUFFIX,7777777.buzz
+- DOMAIN-SUFFIX,581658.best
   
 #Emby-天南小筑
-  - DOMAIN-SUFFIX,nanflix.net
+- DOMAIN-SUFFIX,nanflix.net
 
 #Emby-见手青
   - DOMAIN-SUFFIX,jsq.mooguu.xyz
 
 #Emby-纸片人
-  - DOMAIN-SUFFIX,embyplus.org
+- DOMAIN-SUFFIX,embyplus.org
    
 #Emby-PiliPili
-  - DOMAIN-SUFFIX,pilipili.club
+- DOMAIN-SUFFIX,pilipili.club
 
 #Emby-终点站
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
+- DOMAIN-SUFFIX,pub1.emby.wtf
+- DOMAIN-SUFFIX,pub2.emby.wtf
+- DOMAIN-SUFFIX,pub3.emby.wtf
 
 #Emby-鹅服
-  - DOMAIN-SUFFIX,cavps.eu.org
-  - DOMAIN-SUFFIX,wmxz.567996.xyz
+- DOMAIN-SUFFIX,cavps.eu.org
+- DOMAIN-SUFFIX,wmxz.567996.xyz
 
 #Emby-卷毛鼠公益服
-  - DOMAIN-SUFFIX,cf.jmsooo.com
+- DOMAIN-SUFFIX,cf.jmsooo.com
 
 #Emby-守候
-  - DOMAIN-SUFFIX,cn2gias.uk
+- DOMAIN-SUFFIX,cn2gias.uk
 
 #Emby-CC
-  - DOMAIN-SUFFIX,cc.ccemby.tk
-  - DOMAIN-SUFFIX,cc.coemn.com
-  - DOMAIN-SUFFIX,cc.carryz.net
+- DOMAIN-SUFFIX,cc.ccemby.tk
+- DOMAIN-SUFFIX,cc.coemn.com
+- DOMAIN-SUFFIX,cc.carryz.net
 
 #Emby-Peach
-  - DOMAIN-SUFFIX,embymv.tk
+- DOMAIN-SUFFIX,embymv.tk
 
 #Emby-GuGu Media
-  - DOMAIN-SUFFIX,main.gugumedia.link
-  - DOMAIN-SUFFIX,pro.gugumedia.link
-  - DOMAIN-SUFFIX,front.gugumedia.link
+- DOMAIN-SUFFIX,main.gugumedia.link
+- DOMAIN-SUFFIX,pro.gugumedia.link
+- DOMAIN-SUFFIX,front.gugumedia.link
 
 #Emby-loser
-  - DOMAIN-SUFFIX,line.xmsl.org
-  - DOMAIN-SUFFIX,cf.xmsl.org
+- DOMAIN-SUFFIX,line.xmsl.org
+- DOMAIN-SUFFIX,cf.xmsl.org
 
 #Emby-SYN Streaming KFC
-  - DOMAIN-SUFFIX,clip.synn.cc
+- DOMAIN-SUFFIX,clip.synn.cc
 
 #Emby-zpr
-  - DOMAIN-SUFFIX,embyplus.org
+- DOMAIN-SUFFIX,embyplus.org
 
 #Emby-polo
-  - DOMAIN-SUFFIX,fun.poloemby.xyz
+- DOMAIN-SUFFIX,fun.poloemby.xyz
 
 #Emby-Marmot（土拨鼠）
-  - DOMAIN-SUFFIX,v.20120714.xyz
+- DOMAIN-SUFFIX,v.20120714.xyz
 
 #Emby-MICU Cloud Media
-  - DOMAIN-SUFFIX,tv.micu.hk
+- DOMAIN-SUFFIX,tv.micu.hk
