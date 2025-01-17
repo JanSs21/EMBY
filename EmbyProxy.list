@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,gd.9521732.xyz // 纸片人
 DOMAIN-SUFFIX,as174.de // hxd
 DOMAIN-SUFFIX,emby3.mcjoker.xyz // 叔服
 DOMAIN-SUFFIX,emby.9191001.xyz // FYT
-# DOMAIN-SUFFIX,emby.yomo.lol // yomo
+DOMAIN-SUFFIX,emby.yomo.lol // yomo
 IP-CIDR, 104.161.22.116/32,no-resolve //Yomo
 DOMAIN-SUFFIX,cf.sfcj.org // sfcj
 DOMAIN-SUFFIX,nanflix.net // 天南小筑
