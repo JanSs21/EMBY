@@ -1,39 +1,36 @@
-DOMAIN-SUFFIX,stream.synn.cc // SYN
 DOMAIN-SUFFIX,cn.embymv.me // 桃子私服
 DOMAIN-SUFFIX,embymv.me // 桃子私服
 DOMAIN-SUFFIX,embymv.link // 桃子私服
 DOMAIN-SUFFIX,c.emby.pro // 不给看
 DOMAIN-KEYWORD,pilipiliultra // pilipili
-DOMAIN-SUFFIX,pilipili.club // pilipili
-DOMAIN-SUFFIX,pilipili.misakaf.org // pilipili
 DOMAIN-SUFFIX,embymv.tk // 桃子
 DOMAIN-SUFFIX,poloemby.xyz // 菠萝
 DOMAIN-SUFFIX,line.xmsl.org // zxc
 DOMAIN-SUFFIX,emby.moe // zxc
 DOMAIN-SUFFIX,loseremby.org // zxc
+DOMAIN-SUFFIX,gfhd.19991998.xyz //zxc
 DOMAIN-SUFFIX,cn2gias.uk // SNTP
 DOMAIN-SUFFIX,embyplus.org // 纸片人
+DOMAIN-SUFFIX,029902.xyz // 纸片人
 DOMAIN-SUFFIX,gd.9521732.xyz // 纸片人
 DOMAIN-SUFFIX,as174.de // hxd
+DOMAIN-SUFFIX,cf.bili.rip // hxd
 DOMAIN-SUFFIX,emby3.mcjoker.xyz // 叔服
 DOMAIN-SUFFIX,emby.9191001.xyz // FYT
-DOMAIN-SUFFIX,emby.yomo.lol // yomo
+DOMAIN-SUFFIX,emby.yamo.uk // yomo
 IP-CIDR, 104.161.22.116/32,no-resolve //Yomo
 DOMAIN-SUFFIX,cf.sfcj.org // sfcj
-DOMAIN-SUFFIX,jsq.mooguu.xyz // 见手青
-DOMAIN-SUFFIX,clip.synn.cc // ntrr
+DOMAIN-SUFFIX,jsq.vban.xyz // 见手青
+DOMAIN-SUFFIX,clip.makima.online // ntrr
+DOMAIN-SUFFIX,stream.synn.cc // ntrr
 DOMAIN-SUFFIX,tv.worldline.space // world
-IP-CIDR, 168.119.137.205/32,no-resolve //world
-DOMAIN-SUFFIX,581658.best // caihong
-DOMAIN-SUFFIX,wmxz.567996.xyz // efu
+IP-CIDR, 193.122.114.13/32,no-resolve //caihong
+DOMAIN-SUFFIX,ch.feiyue.lol // caihong
 DOMAIN-SUFFIX,pub1.emby.wtf // zdz
 DOMAIN-SUFFIX,pub2.emby.wtf // zdz
 DOMAIN-SUFFIX,pub3.emby.wtf // zdz
-DOMAIN-SUFFIX,aca.best // aca
-DOMAIN-SUFFIX,misakaf.org // Misakaf
 DOMAIN-SUFFIX,cc.coemn.com // cc
 DOMAIN-SUFFIX,carryz.net // cc
-
 
 
 
