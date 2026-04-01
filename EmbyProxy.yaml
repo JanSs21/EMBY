@@ -3,75 +3,22 @@ payload:
   # 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)↓↓↓↓↓↓↓↓↓
 
 # > ↓↓↓↓↓↓↓↓↓（Emby影视的分流）↓↓↓↓↓↓↓↓↓
-# Emby-hxd
-- DOMAIN-SUFFIX,hxd.as174.de
-- DOMAIN-SUFFIX,emby.as174.de
+# EMBY
+DOMAIN-SUFFIX,embymv.top // 桃子私服
+DOMAIN-SUFFIX,embymv.tk // 桃子
+DOMAIN-SUFFIX,embymv.me // 桃子
+# DOMAIN-SUFFIX,pm.xmsl.org // zxc
+DOMAIN-SUFFIX,prehk.cn2gias.uk // 守候影院
+DOMAIN-SUFFIX,precdns.cn2gias.uk // 守候影院
+DOMAIN-SUFFIX,clip.makima.online  // ntrr
+# DOMAIN-SUFFIX,emby.yomo.lol // yomo
+DOMAIN-SUFFIX,z.sfcj.org // sfcj
+# IP-CIDR, 120.199.90.190/32,no-resolve //zxc
+DOMAIN-SUFFIX,7777777.buzz // caihong
+DOMAIN-SUFFIX,mi2.miraiemby.com // 麻衣
+DOMAIN-SUFFIX,mi3.miraiemby.com // 麻衣
+DOMAIN-SUFFIX,stream-1.jiedaibao.gs // 麻衣
+DOMAIN-SUFFIX,stream-3.miraiemby.com // 麻衣
+DOMAIN-SUFFIX,cdn.lilyemby.com // Lily
+DOMAIN-SUFFIX,cf.300021.xyz // Lily
 
-# Emby-bgk
-- DOMAIN-SUFFIX,c.emby.pro
-
-# Emby-yomo
-- DOMAIN-SUFFIX,emby.yomo.lol
-  
-#Emby-飞越彩虹
-- DOMAIN-SUFFIX,7777777.buzz
-- DOMAIN-SUFFIX,581658.best
-  
-#Emby-天南小筑
-- DOMAIN-SUFFIX,nanflix.net
-
-#Emby-见手青
-  - DOMAIN-SUFFIX,jsq.mooguu.xyz
-
-#Emby-纸片人
-- DOMAIN-SUFFIX,embyplus.org
-   
-#Emby-PiliPili
-- DOMAIN-SUFFIX,pilipili.club
-
-#Emby-终点站
-- DOMAIN-SUFFIX,pub1.emby.wtf
-- DOMAIN-SUFFIX,pub2.emby.wtf
-- DOMAIN-SUFFIX,pub3.emby.wtf
-
-#Emby-鹅服
-- DOMAIN-SUFFIX,cavps.eu.org
-- DOMAIN-SUFFIX,wmxz.567996.xyz
-
-#Emby-卷毛鼠公益服
-- DOMAIN-SUFFIX,cf.jmsooo.com
-
-#Emby-守候
-- DOMAIN-SUFFIX,cn2gias.uk
-
-#Emby-CC
-- DOMAIN-SUFFIX,cc.ccemby.tk
-- DOMAIN-SUFFIX,cc.coemn.com
-- DOMAIN-SUFFIX,cc.carryz.net
-
-#Emby-Peach
-- DOMAIN-SUFFIX,embymv.tk
-
-#Emby-GuGu Media
-- DOMAIN-SUFFIX,main.gugumedia.link
-- DOMAIN-SUFFIX,pro.gugumedia.link
-- DOMAIN-SUFFIX,front.gugumedia.link
-
-#Emby-loser
-- DOMAIN-SUFFIX,line.xmsl.org
-- DOMAIN-SUFFIX,cf.xmsl.org
-
-#Emby-SYN Streaming KFC
-- DOMAIN-SUFFIX,clip.synn.cc
-
-#Emby-zpr
-- DOMAIN-SUFFIX,embyplus.org
-
-#Emby-polo
-- DOMAIN-SUFFIX,fun.poloemby.xyz
-
-#Emby-Marmot（土拨鼠）
-- DOMAIN-SUFFIX,v.20120714.xyz
-
-#Emby-MICU Cloud Media
-- DOMAIN-SUFFIX,tv.micu.hk
