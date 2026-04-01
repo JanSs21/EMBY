@@ -1,17 +1,16 @@
-DOMAIN-SUFFIX,embymv.top 
-DOMAIN-SUFFIX,embymv.tk 
-DOMAIN-SUFFIX,embymv.me 
-# DOMAIN-SUFFIX,pm.xmsl.org 
-DOMAIN-SUFFIX,prehk.cn2gias.uk 
-DOMAIN-SUFFIX,precdns.cn2gias.uk 
-DOMAIN-SUFFIX,clip.makima.online  
-# DOMAIN-SUFFIX,emby.yomo.lol
-DOMAIN-SUFFIX,z.sfcj.org 
-# IP-CIDR, 120.199.90.190/32,no-resolve 
-DOMAIN-SUFFIX,7777777.buzz
-DOMAIN-SUFFIX,mi2.miraiemby.com
-DOMAIN-SUFFIX,mi3.miraiemby.com 
-DOMAIN-SUFFIX,stream-1.jiedaibao.gs 
-DOMAIN-SUFFIX,stream-3.miraiemby.com 
-DOMAIN-SUFFIX,cdn.lilyemby.com 
-DOMAIN-SUFFIX,cf.300021.xyz 
+payload:
+  # 域名后缀
+  - DOMAIN-SUFFIX,embymv.top
+  - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,embymv.me
+  - DOMAIN-SUFFIX,prehk.cn2gias.uk
+  - DOMAIN-SUFFIX,precdns.cn2gias.uk
+  - DOMAIN-SUFFIX,clip.makima.online
+  - DOMAIN-SUFFIX,z.sfcj.org
+  - DOMAIN-SUFFIX,7777777.buzz
+  - DOMAIN-SUFFIX,mi2.miraiemby.com
+  - DOMAIN-SUFFIX,mi3.miraiemby.com
+  - DOMAIN-SUFFIX,stream-1.jiedaibao.gs
+  - DOMAIN-SUFFIX,stream-3.miraiemby.com
+  - DOMAIN-SUFFIX,cdn.lilyemby.com
+  - DOMAIN-SUFFIX,cf.300021.xyz
