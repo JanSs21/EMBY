@@ -1,34 +1,34 @@
-DOMAIN-SUFFIX,cn.embymv.me // 桃子私服
-DOMAIN-SUFFIX,embymv.me // 桃子私服
-DOMAIN-SUFFIX,embymv.link // 桃子私服
-DOMAIN-KEYWORD,pilipiliultra // pilipili
-DOMAIN-SUFFIX,embymv.tk // 桃子
-DOMAIN-SUFFIX,line.xmsl.org // zxc
-DOMAIN-SUFFIX,cf.xmsl.org // zxc
-DOMAIN-SUFFIX,emby.moe // zxc
-DOMAIN-SUFFIX,loseremby.org // zxc
-DOMAIN-SUFFIX,gfhd.19991998.xyz //zxc
-DOMAIN-SUFFIX,xxlb.net //zxc
+DOMAIN-SUFFIX,cn.embymv.me 
+DOMAIN-SUFFIX,embymv.me 
+DOMAIN-SUFFIX,embymv.link 
+DOMAIN-KEYWORD,pilipiliultra
+DOMAIN-SUFFIX,embymv.tk 
+DOMAIN-SUFFIX,line.xmsl.org
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,emby.moe 
+DOMAIN-SUFFIX,loseremby.org 
+DOMAIN-SUFFIX,gfhd.19991998.xyz 
+DOMAIN-SUFFIX,xxlb.net
 #IP-CIDR, 209.141.61.153/32,no-resolve //zxc
-DOMAIN-SUFFIX,cn2gias.uk // SNTP
-DOMAIN-SUFFIX,as174.de // hxd
-DOMAIN-SUFFIX,cf.bili.rip // hxd
-DOMAIN-SUFFIX,mi.miraiemby.com // 麻衣
-DOMAIN-SUFFIX,stream-1.miraiemby.com // 麻衣
-DOMAIN-SUFFIX,emby.yamo.uk // yomo
-IP-CIDR, 104.161.22.116/32,no-resolve //Yomo
-DOMAIN-SUFFIX,cf.sfcj.org // sfcj
-DOMAIN-SUFFIX,jsq.vban.xyz // 见手青
-DOMAIN-SUFFIX,clip.makima.online // ntrr
-DOMAIN-SUFFIX,stream.synn.cc // ntrr
-DOMAIN-SUFFIX,tv.worldline.space // world
-IP-CIDR, 193.122.114.13/32,no-resolve //caihong
-DOMAIN-SUFFIX,ch.feiyue.lol // caihong
-DOMAIN-SUFFIX,pub1.emby.wtf // zdz
-DOMAIN-SUFFIX,pub2.emby.wtf // zdz
-DOMAIN-SUFFIX,pub3.emby.wtf // zdz
-DOMAIN-SUFFIX,cc.coemn.com // cc
-DOMAIN-SUFFIX,carryz.net // cc
-DOMAIN-SUFFIX,ask.ash.yt // ask
-DOMAIN-SUFFIX,lilyemby.com // lily
-DOMAIN-KEYWORD,lilyemby // lily
+DOMAIN-SUFFIX,cn2gias.uk 
+DOMAIN-SUFFIX,as174.de
+DOMAIN-SUFFIX,cf.bili.rip
+DOMAIN-SUFFIX,mi.miraiemby.com
+DOMAIN-SUFFIX,stream-1.miraiemby.com 
+DOMAIN-SUFFIX,emby.yamo.uk 
+IP-CIDR, 104.161.22.116/32,no-resolve
+DOMAIN-SUFFIX,cf.sfcj.org 
+DOMAIN-SUFFIX,jsq.vban.xyz 
+DOMAIN-SUFFIX,clip.makima.online 
+DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,tv.worldline.space 
+IP-CIDR, 193.122.114.13/32,no-resolve 
+DOMAIN-SUFFIX,ch.feiyue.lol
+DOMAIN-SUFFIX,pub1.emby.wtf 
+DOMAIN-SUFFIX,pub2.emby.wtf 
+DOMAIN-SUFFIX,pub3.emby.wtf 
+DOMAIN-SUFFIX,cc.coemn.com 
+DOMAIN-SUFFIX,carryz.net 
+DOMAIN-SUFFIX,ask.ash.yt 
+DOMAIN-SUFFIX,lilyemby.com 
+DOMAIN-KEYWORD,lilyemby 
